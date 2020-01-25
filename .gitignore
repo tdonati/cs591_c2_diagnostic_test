@@ -10,7 +10,7 @@ __pycache__
 *.coverage
 .DS_Store
 env.sh
-migrations
+
 
 # Add SQLITE DB
 diagnostic
